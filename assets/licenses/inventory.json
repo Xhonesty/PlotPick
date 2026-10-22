@@ -1,0 +1,154 @@
+[
+  {
+    "id": "CommunityToolkit.Mvvm",
+    "version": "8.4.0",
+    "authors": "Microsoft",
+    "copyright": "(c) .NET Foundation and Contributors. All rights reserved.",
+    "license": "MIT",
+    "projectUrl": "https://github.com/CommunityToolkit/dotnet"
+  },
+  {
+    "id": "OpenCvSharp4.runtime.win",
+    "version": "4.11.0.20250507",
+    "authors": "shimat",
+    "copyright": "Copyright 2008-2020",
+    "license": "Apache-2.0",
+    "projectUrl": "https://github.com/shimat/opencvsharp"
+  },
+  {
+    "id": "bblanchon.PDFium.Linux",
+    "version": "134.0.6982",
+    "authors": "Benoit Blanchon",
+    "copyright": "Copyright \u00a9 Benoit Blanchon 2017-2025",
+    "license": "Apache-2.0",
+    "projectUrl": "https://github.com/bblanchon/pdfium-binaries"
+  },
+  {
+    "id": "bblanchon.PDFium.macOS",
+    "version": "134.0.6982",
+    "authors": "Benoit Blanchon",
+    "copyright": "Copyright \u00a9 Benoit Blanchon 2017-2025",
+    "license": "Apache-2.0",
+    "projectUrl": "https://github.com/bblanchon/pdfium-binaries"
+  },
+  {
+    "id": "bblanchon.PDFium.Win32",
+    "version": "134.0.6982",
+    "authors": "Benoit Blanchon",
+    "copyright": "Copyright \u00a9 Benoit Blanchon 2017-2025",
+    "license": "Apache-2.0",
+    "projectUrl": "https://github.com/bblanchon/pdfium-binaries"
+  },
+  {
+    "id": "ClosedXML",
+    "version": "0.105.0",
+    "authors": "Jan Havl\u00ed\u010dek, Francois Botha, Aleksei Pankratev, Manuel de Leon, Amir Ghezelbash",
+    "copyright": "",
+    "license": "MIT",
+    "projectUrl": "https://github.com/ClosedXML/ClosedXML"
+  },
+  {
+    "id": "ClosedXML.Parser",
+    "version": "2.0.0",
+    "authors": "Jan Havl\u00ed\u010dek",
+    "copyright": "",
+    "license": "MIT",
+    "projectUrl": "https://github.com/ClosedXML/ClosedXML.Parser"
+  },
+  {
+    "id": "DocumentFormat.OpenXml",
+    "version": "3.1.1",
+    "authors": "Microsoft",
+    "copyright": "\u00a9 Microsoft Corporation. All rights reserved.",
+    "license": "MIT",
+    "projectUrl": "https://github.com/dotnet/Open-XML-SDK"
+  },
+  {
+    "id": "DocumentFormat.OpenXml.Framework",
+    "version": "3.1.1",
+    "authors": "Microsoft",
+    "copyright": "\u00a9 Microsoft Corporation. All rights reserved.",
+    "license": "MIT",
+    "projectUrl": "https://github.com/dotnet/Open-XML-SDK"
+  },
+  {
+    "id": "ExcelNumberFormat",
+    "version": "1.1.0",
+    "authors": "ExcelNumberFormat developers",
+    "copyright": "",
+    "license": "MIT",
+    "projectUrl": "https://github.com/andersnm/ExcelNumberFormat"
+  },
+  {
+    "id": "MathNet.Numerics",
+    "version": "5.0.0",
+    "authors": "Christoph Ruegg, Marcus Cuda, Jurgen Van Gael",
+    "copyright": "Copyright Math.NET Project",
+    "license": "MIT",
+    "projectUrl": "https://numerics.mathdotnet.com/"
+  },
+  {
+    "id": "OpenCvSharp4",
+    "version": "4.11.0.20250507",
+    "authors": "shimat",
+    "copyright": "Copyright 2008-2020",
+    "license": "Apache-2.0",
+    "projectUrl": "https://github.com/shimat/opencvsharp"
+  },
+  {
+    "id": "PDFiumCore",
+    "version": "134.0.6982",
+    "authors": "DJGosnell",
+    "copyright": "",
+    "license": "Apache-2.0",
+    "projectUrl": "https://github.com/Dtronix/PDFiumCore"
+  },
+  {
+    "id": "RBush.Signed",
+    "version": "4.0.0",
+    "authors": "viceroypenguin",
+    "copyright": "Copyright \u00a9 2017-2024 Turning Code, LLC (and others)",
+    "license": "MIT",
+    "projectUrl": ""
+  },
+  {
+    "id": "SixLabors.Fonts",
+    "version": "1.0.0",
+    "authors": "Six Labors and contributors",
+    "copyright": "Copyright \u00a9 Six Labors",
+    "license": "Apache-2.0",
+    "projectUrl": "https://github.com/SixLabors/Fonts"
+  },
+  {
+    "id": "SkiaSharp",
+    "version": "4.153.1",
+    "authors": "Microsoft",
+    "copyright": "\u00a9 Microsoft Corporation. All rights reserved.",
+    "license": "MIT",
+    "projectUrl": "https://go.microsoft.com/fwlink/?linkid=868515"
+  },
+  {
+    "id": "SkiaSharp.NativeAssets.macOS",
+    "version": "4.153.1",
+    "authors": "Microsoft",
+    "copyright": "\u00a9 Microsoft Corporation. All rights reserved.",
+    "license": "MIT",
+    "projectUrl": "https://go.microsoft.com/fwlink/?linkid=868515"
+  },
+  {
+    "id": "SkiaSharp.NativeAssets.Win32",
+    "version": "4.153.1",
+    "authors": "Microsoft",
+    "copyright": "\u00a9 Microsoft Corporation. All rights reserved.",
+    "license": "MIT",
+    "projectUrl": "https://go.microsoft.com/fwlink/?linkid=868515"
+  },
+  {
+    "id": "Tesseract",
+    "version": "5.2.0",
+    "authors": "Charles Weld",
+    "copyright": "Copyright 2012-2020 Charles Weld",
+    "license": "Apache-2.0",
+    "projectUrl": "https://github.com/charlesw/tesseract/"
+  }
+]

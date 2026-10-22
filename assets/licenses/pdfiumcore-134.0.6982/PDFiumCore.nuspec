@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2013/05/nuspec.xsd">
+  <metadata>
+    <id>PDFiumCore</id>
+    <version>134.0.6982</version>
+    <authors>DJGosnell</authors>
+    <license type="expression">Apache-2.0</license>
+    <licenseUrl>https://licenses.nuget.org/Apache-2.0</licenseUrl>
+    <icon>icon.png</icon>
+    <projectUrl>https://github.com/Dtronix/PDFiumCore</projectUrl>
+    <description>PDFiumCore is a wrapper for pinvoke bindings to allow for direct PDFium usage in all languages which support .NET Standard 2.1. Includes the runtime native binary files for Linux-x64, Osx-x64, Win-x86 &amp; Win-x64 targets.</description>
+    <tags>pinvoke dotnet interop pdf pdfium</tags>
+    <repository type="git" url="https://github.com/Dtronix/PDFiumCore" commit="fbd658249d54487a59a5e40492a4356848c1a0ee" />
+    <dependencies>
+      <group targetFramework="net5.0">
+        <dependency id="bblanchon.PDFium.Linux" version="134.0.6982" include="Runtime,Compile,Build,Native,ContentFiles,BuildTransitive" />
+        <dependency id="bblanchon.PDFium.Win32" version="134.0.6982" include="Runtime,Compile,Build,Native,ContentFiles,BuildTransitive" />
+        <dependency id="bblanchon.PDFium.macOS" version="134.0.6982" include="Runtime,Compile,Build,Native,ContentFiles,BuildTransitive" />
+      </group>
+      <group targetFramework="net6.0">
+        <dependency id="bblanchon.PDFium.Linux" version="134.0.6982" include="Runtime,Compile,Build,Native,ContentFiles,BuildTransitive" />
+        <dependency id="bblanchon.PDFium.Win32" version="134.0.6982" include="Runtime,Compile,Build,Native,ContentFiles,BuildTransitive" />
+        <dependency id="bblanchon.PDFium.macOS" version="134.0.6982" include="Runtime,Compile,Build,Native,ContentFiles,BuildTransitive" />
+      </group>
+      <group targetFramework="net8.0">
+        <dependency id="bblanchon.PDFium.Linux" version="134.0.6982" include="Runtime,Compile,Build,Native,ContentFiles,BuildTransitive" />
+        <dependency id="bblanchon.PDFium.Win32" version="134.0.6982" include="Runtime,Compile,Build,Native,ContentFiles,BuildTransitive" />
+        <dependency id="bblanchon.PDFium.macOS" version="134.0.6982" include="Runtime,Compile,Build,Native,ContentFiles,BuildTransitive" />
+      </group>
+      <group targetFramework=".NETStandard2.1">
+        <dependency id="System.Runtime.CompilerServices.Unsafe" version="6.1.0" exclude="Build,Analyzers" />
+        <dependency id="bblanchon.PDFium.Linux" version="134.0.6982" include="Runtime,Compile,Build,Native,ContentFiles,BuildTransitive" />
+        <dependency id="bblanchon.PDFium.Win32" version="134.0.6982" include="Runtime,Compile,Build,Native,ContentFiles,BuildTransitive" />
+        <dependency id="bblanchon.PDFium.macOS" version="134.0.6982" include="Runtime,Compile,Build,Native,ContentFiles,BuildTransitive" />
+      </group>
+    </dependencies>
+  </metadata>
+</package>

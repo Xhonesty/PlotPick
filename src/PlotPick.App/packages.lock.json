@@ -1,0 +1,168 @@
+{
+  "version": 1,
+  "dependencies": {
+    "net10.0-windows7.0": {
+      "CommunityToolkit.Mvvm": {
+        "type": "Direct",
+        "requested": "[8.4.0, )",
+        "resolved": "8.4.0",
+        "contentHash": "tqVU8yc/ADO9oiTRyTnwhFN68hCwvkliMierptWOudIAvWY1mWCh5VFh+guwHJmpMwfg0J0rY+yyd5Oy7ty9Uw=="
+      },
+      "OpenCvSharp4.runtime.win": {
+        "type": "Direct",
+        "requested": "[4.11.0.20250507, )",
+        "resolved": "4.11.0.20250507",
+        "contentHash": "3PxMXyzR+pkL9UOx2PiBjZm+/iyCIu5D6OlA1sq9MH7oWrfvVnCXJlUYhIJv67F7SLUwUuGwXDIQBfdsL/54lg=="
+      },
+      "bblanchon.PDFium.Linux": {
+        "type": "Transitive",
+        "resolved": "134.0.6982",
+        "contentHash": "1wGy6h3f7EyAdzsB9Uq0bv8t8d2qxddfK7Ea8ynKqDcnGs4xe9dAWnK3x9KSUHJb7UpCyFghfvCwEH+xIFfKyQ=="
+      },
+      "bblanchon.PDFium.macOS": {
+        "type": "Transitive",
+        "resolved": "134.0.6982",
+        "contentHash": "UJAEyteKkxwYguqMJvsegPkdTdtYTwSg1QHZPOxm6EMGRZGv0hRVqIfJ63X7Tq/ajvSd+I4Bm7aSRSd5FeH+Ww=="
+      },
+      "bblanchon.PDFium.Win32": {
+        "type": "Transitive",
+        "resolved": "134.0.6982",
+        "contentHash": "XyGCCf5QQ6AQKu3kheKleM6G25sylbARBGPyVlQ/izLQCrMfc2zRBO3zdejxPxr6VwUFyn3nldlV/OynnFGntg=="
+      },
+      "ClosedXML": {
+        "type": "Transitive",
+        "resolved": "0.105.0",
+        "contentHash": "U0hAdnYyPvF7TqHMFloxrS7pmozab79tFFF4c/bgPtqeelUs7ILpUd3r3c7C0a/DXsUZb3k1n4Pf7Q2LMyMQOg==",
+        "dependencies": {
+          "ClosedXML.Parser": "2.0.0",
+          "DocumentFormat.OpenXml": "[3.1.1, 4.0.0)",
+          "ExcelNumberFormat": "1.1.0",
+          "RBush.Signed": "4.0.0",
+          "SixLabors.Fonts": "1.0.0"
+        }
+      },
+      "ClosedXML.Parser": {
+        "type": "Transitive",
+        "resolved": "2.0.0",
+        "contentHash": "ngTqjYreDYNytG1W5d3ewHsw0ukmmrgV7EKnS4/40rXoYZGt07jrBvo+N+GxT49rcageUMUiprV0jYT4nwVBHQ=="
+      },
+      "DocumentFormat.OpenXml": {
+        "type": "Transitive",
+        "resolved": "3.1.1",
+        "contentHash": "2z9QBzeTLNNKWM9SaOSDMegfQk/7hDuElOsmF77pKZMkFRP/GHA/W/4yOAQD9kn15N/FsFxHn3QVYkatuZghiA==",
+        "dependencies": {
+          "DocumentFormat.OpenXml.Framework": "3.1.1"
+        }
+      },
+      "DocumentFormat.OpenXml.Framework": {
+        "type": "Transitive",
+        "resolved": "3.1.1",
+        "contentHash": "6APEp/ElZV58S/4v8mf4Ke3ONEDORs64MqdD64Z7wWpcHANB9oovQsGIwtqjnKihulOj7T0a6IxHIHOfMqKOng=="
+      },
+      "ExcelNumberFormat": {
+        "type": "Transitive",
+        "resolved": "1.1.0",
+        "contentHash": "R3BVHPs9O+RkExbZYTGT0+9HLbi8ZrNij1Yziyw6znd3J7P3uoIR07uwTLGOogtz1p6+0sna66eBoXu7tBiVQA=="
+      },
+      "MathNet.Numerics": {
+        "type": "Transitive",
+        "resolved": "5.0.0",
+        "contentHash": "pg1W2VwaEQMAiTpGK840hZgzavnqjlCMTVSbtVCXVyT+7AX4mc1o89SPv4TBlAjhgCOo9c1Y+jZ5m3ti2YgGgA=="
+      },
+      "OpenCvSharp4": {
+        "type": "Transitive",
+        "resolved": "4.11.0.20250507",
+        "contentHash": "j/R+G6xGC5IV2wGRU0/GF5qG/FrP+Uxp8dmNnXFlIdiw8Gfo4mtvKcBOBfS/bn4pP/7FNHLFX/xvMtgPJeDjAA=="
+      },
+      "PDFiumCore": {
+        "type": "Transitive",
+        "resolved": "134.0.6982",
+        "contentHash": "wFZyAsxiCErBOp7SKuuxKJ7K1qAIusH1PBPWRgaOKIA80DSinBK0wZzak8J6qY3ix0q5GBcLlLvDsBPKVm/27w==",
+        "dependencies": {
+          "bblanchon.PDFium.Linux": "134.0.6982",
+          "bblanchon.PDFium.Win32": "134.0.6982",
+          "bblanchon.PDFium.macOS": "134.0.6982"
+        }
+      },
+      "RBush.Signed": {
+        "type": "Transitive",
+        "resolved": "4.0.0",
+        "contentHash": "aP5KQxL5RnFNGW1f0euYVBfCatkLw5iEzMRJcXKq8LWWP4Cp3+qoSq1tDDL2vvJ2rM0ychmVMa2VaEKLS6uX4w=="
+      },
+      "SixLabors.Fonts": {
+        "type": "Transitive",
+        "resolved": "1.0.0",
+        "contentHash": "LFQsCZlV0xlUyXAOMUo5kkSl+8zAQXXbbdwWchtk0B4o7zotZhQsQOcJUELGHdfPfm/xDAsz6hONAuV25bJaAg=="
+      },
+      "SkiaSharp": {
+        "type": "Transitive",
+        "resolved": "4.153.1",
+        "contentHash": "TghYLOUaP3q6rTjQw7U9uQaaXh8lEs9rfA1U7/VtmyAptVDtj/SmjtcWzFWmcC/VMWxe3QgbV9uyvqDL7ySFtQ==",
+        "dependencies": {
+          "SkiaSharp.NativeAssets.Win32": "4.153.1",
+          "SkiaSharp.NativeAssets.macOS": "4.153.1"
+        }
+      },
+      "SkiaSharp.NativeAssets.macOS": {
+        "type": "Transitive",
+        "resolved": "4.153.1",
+        "contentHash": "YTojWeWIhnpF7uC8vpMxB5wRONKkDB2t3r/nNPA3DL2pgj9fqMXRevA/rIanYazWnco4jo1ufgp3HkXuh1Tz8A=="
+      },
+      "SkiaSharp.NativeAssets.Win32": {
+        "type": "Transitive",
+        "resolved": "4.153.1",
+        "contentHash": "Yqg6rChTVh0BUE8QQxtOA3uUBnihfgID4yex/AvDa0+os2bVcBjmI3Qj9tnOB+R1hd/Jry1Gwl8qw5JI9HZG8Q=="
+      },
+      "Tesseract": {
+        "type": "Transitive",
+        "resolved": "5.2.0",
+        "contentHash": "YB7feJlrTWSXtK8+WaCcseGSPK/1r2d2FWeKGyndlrPwYClrzTlCoHD4/oQEUjKafmpkWlhTZZ7pxiRJYZgj6w=="
+      },
+      "plotpick.core": {
+        "type": "Project",
+        "dependencies": {
+          "ClosedXML": "[0.105.0, )",
+          "MathNet.Numerics": "[5.0.0, )",
+          "OpenCvSharp4": "[4.11.0.20250507, )",
+          "OpenCvSharp4.runtime.win": "[4.11.0.20250507, )",
+          "PDFiumCore": "[134.0.6982, )",
+          "SkiaSharp": "[4.153.1, )",
+          "Tesseract": "[5.2.0, )"
+        }
+      }
+    },
+    "net10.0-windows7.0/win-x64": {
+      "OpenCvSharp4.runtime.win": {
+        "type": "Direct",
+        "requested": "[4.11.0.20250507, )",
+        "resolved": "4.11.0.20250507",
+        "contentHash": "3PxMXyzR+pkL9UOx2PiBjZm+/iyCIu5D6OlA1sq9MH7oWrfvVnCXJlUYhIJv67F7SLUwUuGwXDIQBfdsL/54lg=="
+      },
+      "bblanchon.PDFium.Linux": {
+        "type": "Transitive",
+        "resolved": "134.0.6982",
+        "contentHash": "1wGy6h3f7EyAdzsB9Uq0bv8t8d2qxddfK7Ea8ynKqDcnGs4xe9dAWnK3x9KSUHJb7UpCyFghfvCwEH+xIFfKyQ=="
+      },
+      "bblanchon.PDFium.macOS": {
+        "type": "Transitive",
+        "resolved": "134.0.6982",
+        "contentHash": "UJAEyteKkxwYguqMJvsegPkdTdtYTwSg1QHZPOxm6EMGRZGv0hRVqIfJ63X7Tq/ajvSd+I4Bm7aSRSd5FeH+Ww=="
+      },
+      "bblanchon.PDFium.Win32": {
+        "type": "Transitive",
+        "resolved": "134.0.6982",
+        "contentHash": "XyGCCf5QQ6AQKu3kheKleM6G25sylbARBGPyVlQ/izLQCrMfc2zRBO3zdejxPxr6VwUFyn3nldlV/OynnFGntg=="
+      },
+      "SkiaSharp.NativeAssets.macOS": {
+        "type": "Transitive",
+        "resolved": "4.153.1",
+        "contentHash": "YTojWeWIhnpF7uC8vpMxB5wRONKkDB2t3r/nNPA3DL2pgj9fqMXRevA/rIanYazWnco4jo1ufgp3HkXuh1Tz8A=="
+      },
+      "SkiaSharp.NativeAssets.Win32": {
+        "type": "Transitive",
+        "resolved": "4.153.1",
+        "contentHash": "Yqg6rChTVh0BUE8QQxtOA3uUBnihfgID4yex/AvDa0+os2bVcBjmI3Qj9tnOB+R1hd/Jry1Gwl8qw5JI9HZG8Q=="
+      }
+    }
+  }
+}

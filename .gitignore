@@ -1,0 +1,14 @@
+.tools/
+**/bin/
+**/obj/
+artifacts/
+*.user
+*.suo
+*.tmp
+*.bak
+*.log
+recovery-*.plotpick
+__pycache__/
+*.pyc
+.vs/
+.idea/
